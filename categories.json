@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5bf0c9f0b04e8e16d4b066bd"},"name":"Wifi para toda la casa","type":"HomeProducts","image":"https://storage.googleapis.com/intelligentimgbucket/wifiparatodalacasa.jpg","description":"Wifi para toda la casa","main":true,"__v":0}
+{"_id":{"$oid":"5bf0f1d0732cea3ee4a20f3a"},"name":"Routers inalámbricos","type":"HomeProducts","image":"https://storage.googleapis.com/intelligentimgbucket/miniatura.jpg","description":"Routers inalámbricos","main":true,"__v":0}
+{"_id":{"$oid":"5bf180be9d5aa861ccefffb3"},"name":"Routers inalámbricos Dual Band","type":"HomeProducts","image":"https://storage.googleapis.com/intelligentimgbucket/miniaturaDualBand.jpg","description":"Routers inalámbricos Dual Band","main":true,"__v":0}
